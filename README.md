@@ -13,3 +13,18 @@ conda activate venv/
 ```
 pip install -r requirements.txt
 ```
+### create .gitignore file
+
+### create setup.py file
+
+### create src folder with all the inclusive files
+
+### Intialize the git and push the code
+```
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/arunk7033/aferfeaw.git
+git push -u origin main
+```
